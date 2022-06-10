@@ -1,5 +1,12 @@
+
 git clone (it clones resitory in our local machine)
 git status (it shows status)
 git version (it shows version)
 git add . (it adds all file to repo)
-git commit (it stores files to repo)
+git commit (it stores files to repo
+
+
+i am afzal 
+I am from up 
+I am studying in goa (btech cse))
+
